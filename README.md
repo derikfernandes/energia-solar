@@ -1,8 +1,21 @@
 # energia-solar
 
-Nesta apresentação, eu estarei utilizando dados abertos disponibilizados pela CENIPA - Centro de Investigação e Prevenção de Acidentes aeronáuticos. Tais arquivos conterão informações sobre ocorrências envolvendo aeronaves nos últimos 10 anos. Você pode acessar dados mais atualizados visitando a página oficial de Dados Abertos Brasileiros, mas, caso deseje, poderá estar realizando o download dos datasets utilizados aqui através dos links de download abaixo.
+Nesta apresentação, eu estarei utilizando dados abertos disponibilizados pela ANEEL - Agência Nacional de Energia Elétrica e dados sobre CNPJs disponibilizados pela receita federal. Tais arquivos conterão informações sobre a instalação de empreendimentos de energia fotovoltaíca e sobre as características de CNPJs abertos no município.
 
-Para este estudo, utilizarei de dois datasets da CENIPA:
+Você pode acessar dados mais atualizados visitando as seguintes páginas:
+
+https://dadosabertos.aneel.gov.br/dataset/empreendimentos-em-operacao
+https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj
+
+
+
+Para este estudo, utilizarei os seguintes Datasets:
+
+Dados Abertos CNPJ EMPRESA
+Dados Abertos CNPJ ESTABELECIMENTO
+Dados Abertos CNPJ SÓCIO
+empreendimento-operacao-historicoCSV Popular
+
 
 Ocorrencia.csv: possui os dados sobre cada ocorrência registrada nos últimos 10 anos. Código da ocorrência, Data, Motivo da Ocorrência e Localização serão encontrados nesse conjunto de dados.
 
