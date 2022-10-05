@@ -11,10 +11,15 @@ https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros
 
 Para este estudo, utilizarei os seguintes Datasets:
 
-Dados Abertos CNPJ EMPRESA
-Dados Abertos CNPJ ESTABELECIMENTO
-Dados Abertos CNPJ SÓCIO
-empreendimento-operacao-historicoCSV Popular
+Empresas.zip:
+
+Estabelecimentos.zip:
+
+Simples.zip:
+
+CNAE.csv:
+
+empreendimento-geracao-distribuida.csv:
 
 
 Ocorrencia.csv: possui os dados sobre cada ocorrência registrada nos últimos 10 anos. Código da ocorrência, Data, Motivo da Ocorrência e Localização serão encontrados nesse conjunto de dados.
