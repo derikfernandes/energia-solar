@@ -39,6 +39,9 @@ Quantos incidentes com fatalidades (morte de passageiros e tripulação) temos r
 
 # Requisitos
 Python 3.5
+
 Pandas
+
 Matplotlib
+
 Random
