@@ -20,11 +20,7 @@ CNAE.csv: Identificação da Denominação, da Seção e da Classe do CNAE.
 empreendimento-geracao-distribuida.csv:
 
 
-Ocorrencia.csv: possui os dados sobre cada ocorrência registrada nos últimos 10 anos. Código da ocorrência, Data, Motivo da Ocorrência e Localização serão encontrados nesse conjunto de dados.
-
-Aeronave.csv: informações agrupadas sobre as aeronaves envolvidas nas ocorrências registradas no arquivo ocorrencia.csv. Aqui serão encontrados dados como: Modelo da Aeronave, Tipo de Aeronave, Fabricante, Quantidade de Fatalidades, dentre outras.
-
-Perguntas a serem respondidas
+# Perguntas a serem respondidas
 Quais são as maiores causas de ocorrências e, eventualmente, queda de aviões?
 Como tem sido a progressão desses casos nos últimos anos? Tiveram menos ocorrências ou mais?
 Quais os estados que mais possuem ocorrências registradas?
