@@ -21,11 +21,11 @@ empreendimento-geracao-distribuida.csv:
 
 
 # Perguntas a serem respondidas
-Quais são as maiores causas de ocorrências e, eventualmente, queda de aviões?
+Quais são os Principais Fatores que induzem a compra e instalação de Painéis Fotovoltaícos por Pessoas Jurídicas?
 
-Como tem sido a progressão desses casos nos últimos anos? Tiveram menos ocorrências ou mais?
+Quais as principais Personas que podemos identificar como instaladores de Paineis fotovoltaícos?
 
-Quais os estados que mais possuem ocorrências registradas?
+Quais os principais grupos que podemos identificar entre os principais fatores?
 
 Qual tipo de aeronave possui mais problemas? Aviões, jatos, planadores?
 
