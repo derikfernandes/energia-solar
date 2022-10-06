@@ -11,7 +11,7 @@ https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros
 
 Para este estudo, utilizarei os seguintes Datasets:
 
-Empresas.zip:
+Empresas.zip: Possui dados sobre os CNPJs Básicos identificando a razão social, a natureza jurídica, a qualificação do Responsável, o Capital Social da Empresa e o Porte da Empresa.
 
 Estabelecimentos.zip:
 
