@@ -13,9 +13,7 @@ Para este estudo, utilizarei os seguintes Datasets:
 
 Empresas.zip: Possui dados sobre os CNPJs Básicos identificando a razão social, a natureza jurídica, a qualificação do Responsável, o Capital Social da Empresa e o Porte da Empresa.
 
-Estabelecimentos.zip:
-
-Simples.zip:
+Estabelecimentos.zip:Possui dados sobre os CNPJs completos identificando o nome fantasia, a situação cadastral, o CNAE, o Endereço e o Contrato.
 
 CNAE.csv:
 
