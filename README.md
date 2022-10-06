@@ -15,7 +15,7 @@ Empresas.zip: Possui dados sobre os CNPJs Básicos identificando a razão social
 
 Estabelecimentos.zip:Possui dados sobre os CNPJs completos identificando o nome fantasia, a situação cadastral, o CNAE, o Endereço e o Contrato.
 
-CNAE.csv:
+CNAE.csv: Identificação da Denominação, da Seção e da Classe do CNAE.
 
 empreendimento-geracao-distribuida.csv:
 
